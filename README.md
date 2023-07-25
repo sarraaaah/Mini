@@ -1,6 +1,4 @@
-# Online Shop Application
-
-#### A full-stack Online Shop web application using Spring Boot 2 and Angular 7. 
+#### A full-stack application using Spring Boot 2 and Angular 7. 
 ## Features
 - REST API
 - Docker
